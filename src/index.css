@@ -119,10 +119,10 @@ img {
         width: var(--container-width-md);
     }
 
-    /* section {
-        margin-top: 6rem;
+    section {
+        margin-top: 4rem;
         height: 100vh;
-    } */
+    }
 }
 
 /* =============== MEDIA QUERIES (SMALL DEVICES) ==============*/
